@@ -1,0 +1,695 @@
+text_id,original_text,gemini_simplified,llama_simplified,gemini_delta_fkgl,gemini_bert_f1,gemini_cosine,gemini_fog,llama_delta_fkgl,llama_bert_f1,llama_cosine,llama_fog
+0,"by creating a tinder account or by using the tinder imessage app ( `` tinder stacks '' ) , whether through a mobile device , mobile application or computer ( collectively , the `` service '' ) you agree to be bound by ( i ) these terms of use , ( ii ) our privacy policy and safety tips , each of which is incorporated by reference into this agreement , and ( iii ) any terms disclosed and agreed to by you if you purchase additional features , products or services we offer on the service ( collectively , this `` agreement '' ) .",ERROR_GENERATION,"Here is a simplified version of the legal text at an 8th-grade reading level:
+
+By creating a Tinder account or using the Tinder app on your phone, tablet, or computer, you agree to follow these rules:
+
+1. These terms of use (this agreement)
+2. Our privacy policy
+3. Our safety tips
+
+These rules are important and will help us keep our community safe and fair. By using our service, you agree to follow these rules and any additional rules that may apply if you purchase extra features or services.
+
+Note: I've kept the original text's critical information, obligations, rights, limitations, and conditions intact while simplifying the language to make it more accessible to a general audience.",-20.0775,0.7487655,0.038103975,40.400000000000006,23.93974137931035,0.83713174,0.7825118,13.940229885057471
+1,"this means we may add new product features or enhancements from time to time as well as remove some features , and if these actions do not materially affect your rights or obligations , we may not provide you with notice before taking them.we may even suspend the services entirely , in which event we will notify you in advance unless extenuating circumstances , such as safety or security concerns , prevent us from doing so .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""We may update our product or add new features from time to time. We might also remove some features. If these changes don't affect your rights or responsibilities, we don't have to tell you about them before making the changes. However, if we decide to stop providing the service entirely, we will let you know in advance, unless there's a good reason why we can't (like a safety or security issue).""
+
+I preserved all the critical information, rights, and obligations, while making the language more accessible to a general audience at an 8th-grade reading level.",-38.06612676056339,0.76563895,0.025877617,40.400000000000006,6.404180931744314,0.8834259,0.6871426,12.166153846153847
+2,"copy , modify , transmit , create any derivative works from , make use of , or reproduce in any way any copyrighted material , images , trademarks , trade names , service marks , or other intellectual property , content or proprietary information accessible through the service without tinder 's prior written consent .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""You are not allowed to:
+
+* Copy, change, send, or use any copyrighted material, images, logos, brand names, or other special ideas or information that you find on our service without getting our permission in writing first.
+
+This means you can't:
+
+* Copy and paste text or images from our service
+* Make changes to our content and claim it as your own
+* Share or send our content to others without permission
+* Use our logos or brand names to promote your own products or services
+* Use any other ideas or information you find on our service without getting our permission first
+
+Remember, we own the rights to all the content and intellectual property on our service, and we need to give you permission before you can use it.""
+
+Note: I've kept the simplified version at an 8th-grade reading level while preserving the original legal obligations, rights, limitations, and conditions.",-29.72232558139535,0.744898,0.051985517,40.400000000000006,1.9809002250562742,0.8225926,0.5151659,26.344086021505376
+3,"use any robot , bot , spider , crawler , scraper , site search/retrieval application , proxy or other manual or automatic device , method or process to access , retrieve , index , `` data mine , '' or in any way reproduce or circumvent the navigational structure or presentation of the service or its contents .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""Do not use any software or tool to access, retrieve, or copy our website's content or structure without permission. This includes robots, bots, spiders, crawlers, scrapers, site search/retrieval applications, proxies, or any other device, method, or process that helps you access or copy our website.""
+
+Note: I've kept the core message and legal obligations intact while using simpler language and a more accessible tone to make it easier for a general audience to understand.",-32.30727272727273,0.7545892,0.020163039,40.400000000000006,8.473450164293538,0.855913,0.43768227,14.922088353413656
+4,"by creating an account , you grant to tinder a worldwide , transferable , sub-licensable , royalty-free , right and license to host , store , use , copy , display , reproduce , adapt , edit , publish , modify and distribute information you authorize us to access from facebook , as well as any information you post , upload , display or otherwise make available ( collectively , `` post '' ) on the service or transmit to other users ( collectively , `` content '' ) .",ERROR_GENERATION,"Here is a simplified version of the legal text at an 8th-grade reading level:
+
+When you create an account on Tinder, you give us permission to use, store, and share the information you allow us to access from Facebook, as well as any content you post, upload, or share on our service. This includes:
+
+* Hosting and storing your information
+* Showing your content to other users
+* Copying and sharing your content
+* Editing or modifying your content
+* Publishing your content
+* Distributing your content to others
+
+This permission is worldwide, which means we can use your content anywhere in the world. It's also transferable, which means we can give this permission to others. Additionally, this permission is royalty-free, which means we don't have to pay you for using your content.
+
+Note: I've kept all the critical information and obligations, rights, limitations, and conditions from the original text, while simplifying the language to make it easier to understand for a general audience.",-24.9325806451613,0.74718714,0.05297014,40.400000000000006,14.515697835851363,0.8330112,0.783797,18.71594936708861
+5,"our license to your content is subject to your rights under applicable law ( for example laws regarding personal data protection to the extent any content contains personal information as defined by those laws ) and is for the limited purpose of operating , developing , providing , and improving the service and researching and developing new ones .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""Our license to use your content is subject to the laws that protect your personal information. This means that if your content includes personal information, we will follow the laws that govern how we can use and protect that information. Our license is only for the purpose of operating, improving, and developing our service, as well as researching and creating new services.",-28.478490566037745,0.76589173,-0.0077423733,40.400000000000006,13.26835153922542,0.8806313,0.8871689,16.44912280701754
+6,you agree that any content you place or that you authorize us to place on the service may be viewed by other users and may be viewed by any person visiting or participating in the service ( such as individuals who may receive shared content from other tinder users ) .,ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you post content on our service or allow us to post it, you agree that anyone using our service can see it. This means that anyone who visits our service, including people who may receive content from other users, may view the content you post.""
+
+I preserved all the critical information, including the idea that users' content can be viewed by others, while making the language more accessible to a general audience at an 8th-grade reading level.",-34.278333333333336,0.7695457,-0.068324745,40.400000000000006,6.748793103448278,0.8765862,0.62153125,14.818390804597701
+7,"you agree that tinder may access , preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access , preservation or disclosure is reasonably necessary , such as to : ( i ) comply with legal process ; ( ii ) enforce this agreement ; ( iii ) respond to claims that any content violates the rights of third parties ; ( iv ) respond to your requests for customer service ; or ( v ) protect the rights , property or personal safety of the company or any other person .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you use Tinder, you agree that we may access, keep, and share your account information and what you post on the app if we're required to by law or if we believe it's necessary to do so. This might happen in situations like:
+
+* When we need to follow a court order or subpoena
+* To enforce the rules of this agreement
+* When someone claims that something you posted on the app infringes on their rights
+* When you ask us for help with a problem
+* To protect the rights, property, or safety of Tinder or any other person
+
+By using Tinder, you're agreeing to these terms.""",-18.882352941176478,0.74827504,-0.008405745,40.400000000000006,13.516243550051595,0.8519451,0.81801814,26.30877192982456
+8,"tinder reserves the right to investigate and / or terminate your account without a refund of any purchases if you have misused the service or behaved in a way that tinder regards as inappropriate or unlawful , including actions or communications that occur off the service but involve users you meet through the service .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""Tinder has the right to investigate and close your account without giving you a refund if you misuse the service or behave in a way that Tinder considers inappropriate or illegal. This includes any actions or messages you send to someone you meet through Tinder, even if it happens outside of the app.""
+
+Note: I've kept the core message and obligations intact while using simpler language to make it easier to understand.",-30.940769230769238,0.7680739,-0.0030164123,40.400000000000006,11.072317188983856,0.8857045,0.8508601,15.244444444444447
+9,"if you choose to make an in app purchase , you will be prompted to enter details for your account with your software store ( `` your iap account '' ) , and your iap account will be charged for the in app purchase in accordance with the terms disclosed to you at the time of purchase as well as the general terms for in app purchases that apply to your iap account .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""If you decide to buy something extra inside an app (like a game or a tool), you'll need to enter your account information with the app store (like Apple App Store or Google Play Store). The app store will charge your account for the purchase, according to the rules we tell you about at the time of purchase, as well as the general rules for in-app purchases that apply to your account.""
+
+I preserved all the critical information, including:
+
+* The requirement to enter account information with the app store
+* The charging of the account for the in-app purchase
+* The reference to the terms disclosed at the time of purchase and the general terms for in-app purchases that apply to the account
+
+Let me know if you have any further requests!",-29.91373134328359,0.7728479,-0.063031614,40.400000000000006,5.5937686567164135,0.87254757,0.79901254,22.255555555555556
+10,"if you do not wish your subscription to renew automatically , or if you want to change or terminate your subscription , you will need to log in to your iap account and follow instructions to cancel your subscription , even if you have otherwise deleted your account with us or if you have deleted the tinder application from your device .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you don't want your subscription to automatically renew, or if you want to change or stop your subscription, you need to log in to your account and follow the instructions to cancel your subscription. This is true even if you've already deleted your account with us or removed the Tinder app from your device.""
+
+I preserved all the critical information, including:
+
+* The requirement to cancel subscription manually
+* The need to log in to the IAP account to cancel
+* The fact that deleting the account or the app does not automatically cancel the subscription
+* The importance of following instructions to cancel the subscription correctly
+
+I wrote the simplified text at an 8th-grade reading level, making it accessible to a general audience.",-30.46310344827587,0.77235985,0.014393726,40.400000000000006,4.6745888594164455,0.88469374,0.83185256,24.410256410256412
+11,"if you choose to make a purchase through tinder online , you agree to pay tinder all charges at the prices displayed to you for the services you 've selected as well as any sales or similar taxes that may be imposed on your payments , and you authorize tinder to charge your chosen payment provider ( your `` payment method '' ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you decide to buy something through Tinder Online, you agree to pay Tinder for the services you choose, at the prices shown to you. You also agree to pay any sales taxes or similar taxes that may be added to your payment. By making a purchase, you give Tinder permission to charge your chosen payment method (the way you pay, such as a credit card or bank account).""
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions, while making the language more accessible to a general audience at an 8th-grade reading level.",-31.570526315789483,0.7702918,-0.104918405,40.400000000000006,11.176259398496239,0.88833404,0.866287,14.69047619047619
+12,"if a payment is not successfully settled , due to expiration , insufficient funds , or otherwise , and you do not edit your payment method information or cancel your subscription , you remain responsible for any uncollected amounts and authorize us to continue billing the payment method , as it may be updated .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you don't pay your bill on time because it expired, you don't have enough money, or for any other reason, and you don't update your payment information or cancel your subscription, you're still responsible for the unpaid amount. You also give us permission to keep trying to charge the payment method you used, even if it's been updated.""
+
+I preserved all the essential information, including:
+
+* The consequences of not paying on time
+* The responsibility for unpaid amounts
+* The authorization to continue billing the payment method
+* The condition that payment method information must be updated or the subscription canceled
+
+I wrote the simplified version at an 8th-grade reading level to make it accessible to a general audience.",-30.836666666666677,0.77064866,0.046557695,40.400000000000006,4.119365079365075,0.8528336,0.7033994,23.149206349206352
+13,"from time to time , you may be able to purchase , with `` real world '' money , a limited , personal , non-transferable , non-sublicensable , revocable license to use `` virtual items , '' including but not limited to super likes ( collectively , `` virtual items '' ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""Sometimes, you may be able to buy certain virtual items, like super likes, using real money. However, this is a limited license that is only for personal use and can't be transferred or shared with others. This license can also be taken away at any time.",-34.61428571428573,0.7623965,-0.01662473,40.400000000000006,11.618441558441557,0.8372443,0.8550025,10.242424242424242
+14,"in the event that you become disabled ( such that you are unable to use the services of tinder ) before the end of your subscription period , you shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your disability by providing the company notice in the same manner as you request a refund as described below .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you become unable to use Tinder due to a disability before your subscription ends, you can get a refund for the part of your subscription payment that was for the time after your disability. To get the refund, you need to notify the company in the same way you would request a refund, as described below.""
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions, while using simpler language to make it easier to understand for a general non-expert audience.",-25.01,0.7781581,0.008902319,40.400000000000006,14.677096774193554,0.88121337,0.9303368,19.281720430107526
+15,if you subscribed using your google play store account or through tinder online : please contact customer support with your order number for the google play store ( you can find the order number in the order confirmation email or by logging in to google wallet ) or tinder online ( you can find this on your confirmation email ) .,ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you signed up using your Google Play Store account or through Tinder Online, please reach out to our customer support team with your order number. You can find this number in the order confirmation email you received or by logging into your Google Wallet account. Alternatively, you can also find the order number in the confirmation email you received from Tinder Online.""",-32.361818181818194,0.7671421,0.035197426,40.400000000000006,11.276515151515149,0.9050532,0.8498157,11.822222222222223
+16,"tinder provides the service on an `` as is '' and `` as available '' basis and to the extent permitted by applicable law , grants no warranties of any kind , whether express , implied , statutory or otherwise with respect to the service ( including all content contained therein ) , including , without limitation , any implied warranties of satisfactory quality , merchantability , fitness for a particular purpose or non-infringement .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""Tinder offers its service as it is, without any guarantees. We don't promise that the service will be perfect or that it will work all the time. We also don't guarantee that the information or content on the service will be accurate, complete, or suitable for a specific purpose. We're only providing the service as it is available, and we're not responsible if it doesn't meet your expectations.""
+
+Note: I've kept the same level of detail and preserved the legal obligations, rights, limitations, and conditions as in the original text. The simplified version is written at an 8th-grade reading level and is intended for a general audience.",-24.98,0.75391394,0.077649616,40.400000000000006,19.545862068965526,0.8158268,0.8215698,13.940229885057471
+17,"tinder does not represent or warrant that ( a ) the service will be uninterrupted , secure or error free , ( b ) any defects or errors in the service will be corrected , or ( c ) that any content or information you obtain on or through the services will be accurate .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""Tinder does not promise or guarantee that:
+
+* Our service will always be available, safe, or without mistakes.
+* We will fix any problems or errors that might happen with our service.
+* The information or content you get from our service will always be correct.
+
+By using our service, you agree that these things are not guaranteed and that we are not responsible if they don't happen.""
+
+Note: I preserved all the original legal obligations, rights, limitations, and conditions, and simplified the language to make it easier to understand for a general non-expert audience.",-34.760000000000005,0.75651914,0.10755762,40.400000000000006,8.680867924528307,0.8510405,0.7813071,13.76301886792453
+18,"to the fullest extent permitted by applicable law , in no event will tinder , its affiliates , employees , licensors or service providers be liable for any indirect , consequential , exemplary , incidental , special or punitive damages , including , without limitation , loss of profits , whether incurred directly or indirectly , or any loss of data , use , goodwill , or other intangible losses , resulting from : ( i ) your access to or use of or inability to access or use the services , ( ii ) the conduct or content of other users or third parties on , through , or following use of the services ; or ( iii ) unauthorized access , use or alteration of your content , even if tinder has been advised of the possibility of such damages .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""Tinder, its partners, employees, and others who help us won't be responsible for any damages that aren't directly caused by us. This means we won't be responsible for:
+
+* Any losses you might experience because you used our services or couldn't use them
+* Any problems caused by what other users or third parties do on or through our services
+* Any unauthorized access or changes to your content
+
+Even if we've been warned about the possibility of these kinds of damages, we won't be responsible for them. This is the fullest extent we can be held responsible under the law.""
+
+Note: I've kept all the critical information and obligations, rights, limitations, and conditions, while simplifying the language to an 8th-grade reading level.",-5.595714285714294,0.7330139,0.0620046,40.400000000000006,33.624537652270206,0.8278994,0.8095569,19.101550387596898
+19,"for users residing in the eu or european economic area or elsewhere where our arbitration agreement is prohibited by law , the laws of texas , u.s.a. , excluding texas 's conflict of laws rules , will apply to any disputes arising out of or relating to this agreement or the services .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you're a user from the European Union, European Economic Area, or any other place where our arbitration agreement is not allowed by law, any disputes related to this agreement or our services will be governed by the laws of Texas, USA, without considering any conflicting laws from Texas.""
+
+Note: I've kept the essential information and preserved the legal obligations, rights, limitations, and conditions while making it more accessible to a general audience at an 8th-grade reading level.",-40.44250000000001,0.76475745,-0.0013824329,40.400000000000006,-7.918649425287356,0.86379254,0.914747,26.595402298850576
+20,"except for users residing in the eu or european economic area , who may bring claims in their country of residence in accordance with applicable law , all claims arising out of or relating to this agreement or the services will be litigated exclusively in the federal or state courts of dallas county , texas , u.s.a. , and you and tinder consent to personal jurisdiction in those courts .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you're not from the European Union or the European Economic Area, any disputes or issues related to this agreement or our services will be resolved in the courts of Dallas County, Texas, USA. You and Tinder agree to follow the rules and procedures of those courts and allow them to have jurisdiction over any disputes.""
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions, while making the language more accessible to a general audience at an 8th-grade reading level.",-38.06,0.7580636,-0.026511554,40.400000000000006,0.5200000000000031,0.84848267,0.8038457,20.092753623188408
+21,"you agree , to the extent permitted under applicable law , to indemnify , defend and hold harmless tinder , our affiliates , and their and our respective officers , directors , agents , and employees from and against any and all complaints , demands , claims , damages , losses , costs , liabilities and expenses , including attorney 's fees , due to , arising out of , or relating in any way to your access to or use of the services , your content , or your breach of this agreement .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you use our services, you agree to protect Tinder, our partners, and our employees from any problems, claims, or lawsuits that might happen because of your use of our services, the content you share, or if you break this agreement. This includes paying for any costs, damages, or fees related to these issues.""
+
+Note: I've kept the essential information and obligations, while making it easier to understand for a non-expert audience.",-21.600270270270286,0.737171,0.029548334,40.400000000000006,19.83010010010009,0.8326806,0.8368434,17.219753086419754
+22,"this agreement , with the privacy policy , the safety tips and any terms disclosed and agreed to by you if you purchase additional features , products or services we offer on the service , contains the entire agreement between you and tinder regarding the use of the service .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""This agreement, along with our privacy policy, safety tips, and any other terms you agree to when you buy extra features, products, or services from us on the Tinder app, makes up the entire agreement between you and Tinder about how you can use our service.
+
+Note: I've kept the same level of complexity as the original text, but rephrased it to make it easier to understand for a general audience. I've also maintained the same legal obligations, rights, limitations, and conditions as the original text.",-33.97333333333334,0.7726728,0.016422141,40.400000000000006,5.489824561403509,0.8781561,0.8731501,18.982456140350877
+23,"you will not use the service to engage in any form of harassment or offensive behaviour , including but not limited to the posting of communications , pictures or recordings which contain libelous , slanderous , abusive or defamatory statements , or racist , pornographic , obscene , or offensive language ;",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""You agree not to use our service to bully, harass, or offend others. This includes posting messages, pictures, or recordings that are mean-spirited, hurtful, or offensive. This includes things like:
+
+* Saying something false and damaging about someone's reputation (libel)
+* Saying something untrue and harmful about someone's character (slander)
+* Using language that is racist, pornographic, or obscene
+* Posting anything that is offensive or inappropriate
+
+By using our service, you agree to follow these rules and not engage in any behavior that could be considered harassment or offensive.""",-31.368837209302338,0.75645125,0.032024875,40.400000000000006,6.355373317013459,0.85022485,0.8005861,18.982456140350877
+24,"you acknowledge that ( a ) we can not ensure the security or privacy of information you provide through the internet and your email messages , and you release us from any and all liability in connection with the use of such information by other parties ; ( b ) we are not responsible for , and can not control , the use by others of any information which you provide to them and you should use caution in selecting the personal information you provide to others through the service ; and ( c ) we can not assume any responsibility for the content of messages sent by other users of the service , and you release us from any and all liability in connection with the contents of any communications you may receive from other users .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+When you use our service, you understand that:
+
+* We can't guarantee the security or privacy of the information you share through the internet and email messages. You release us from any responsibility if others use this information without your permission.
+* We can't control how others use the information you share with them. Be careful when sharing personal information with others through our service.
+* We're not responsible for the content of messages sent by other users. You release us from any responsibility if you receive unwanted or harmful messages from other users.
+
+By using our service, you agree to these terms and release us from any liability related to the use of your information or messages sent by others.",-2.993600000000015,0.7580864,0.093162216,40.400000000000006,40.679740832395936,0.9009772,0.85875404,14.186276715410575
+25,"while we do not and can not review every message or other material posted or sent by users of the service , and are not responsible for any content of these messages or materials , we reserve the right , but are not obligated , to delete , move , or edit messages or materials , including without limitation property profiles , public postings and messages , that we , in our sole discretion , deem to violate the code of conduct set out above or any applicable content guidelines , or to be otherwise unacceptable .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""We don't review every message or material posted by users on our service. We're not responsible for what users post. However, we have the right to remove, move, or change any message or material that we think breaks our rules or is not suitable. This includes profiles, public posts, and messages. We'll decide what's acceptable and what's not, and we can do this without telling you why.""
+
+Note: I've kept the original language's tone and structure to ensure that the simplified version still conveys the same legal obligations, rights, limitations, and conditions as the original text.",-17.639523809523823,0.751728,0.14781015,40.400000000000006,27.845476190476184,0.8602794,0.80148464,11.952380952380953
+26,"without limiting the generality of the foregoing , any fraudulent , abusive , or otherwise illegal activity , or that may otherwise affect the enjoyment of the service or the internet by others may be grounds for termination of your access to all or part of the service at our sole discretion , and you may be referred to appropriate law enforcement agencies .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""We reserve the right to stop your access to our service or parts of it if you engage in any illegal or harmful activities, such as fraud or abuse, that might affect others' use of our service or the internet. We may also report you to the authorities if necessary.""",-27.411379310344838,0.7653072,0.067604855,40.400000000000006,13.229870689655169,0.86176306,0.7332135,16.55
+27,"all copyright , trade marks and all other intellectual property rights in the website and its content ( including without limitation the website design , text , graphics and all software and source codes connected with the website ) are owned by or licensed to betterpoints.uk or otherwise used by betterpoints.uk as permitted by law .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""All the content on our website, including the design, text, images, and code, is owned by Betterpoints.uk or licensed to us. We have the right to use this content as allowed by law.",-45.102000000000004,0.7637181,-0.021018984,40.400000000000006,4.051809523809524,0.8807922,0.8444555,9.40952380952381
+28,"you agree to indemnify and hold betterpoints.uk its directors , its officers , its employees and agents harmless from and against all liabilities , including without limitation legal fees , damages , losses , costs and other expenses in relation to any claims or actions brought against betterpoints.uk arising out of any breach by you of these terms and conditions , complaints made by other parties against you or other liabilities arising out of your use of this website .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""When you use our website, you promise to protect and defend Betterpoints.uk, its leaders, employees, and representatives from any problems or lawsuits that might arise because of your actions or inactions that break these rules. This includes paying for any legal fees, damages, losses, and other expenses related to any claims or lawsuits brought against Betterpoints.uk. This protection applies to any issues that arise from your use of our website, including complaints made by others against you or any other problems that might occur.""
+
+Note: I preserved all the critical information, obligations, rights, limitations, and conditions in the simplified version, while making it more accessible to a non-expert audience.",-40.85222222222223,0.75487155,0.03540913,40.400000000000006,0.5015013550135485,0.8712933,0.779009,16.344065040650406
+29,"you irrevocably agree that the courts of england and wales shall have exclusive jurisdiction to resolve any dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data , and that the laws of england and wales shall govern such dispute or claim .",ERROR_GENERATION,"Here is a simplified version of the legal text at an 8th-grade reading level:
+
+""You agree that if there's ever a problem or disagreement about this policy or how your personal data is used, the courts in England and Wales will have the final say in resolving the issue. The laws of England and Wales will also apply to any dispute or claim that may arise.""
+
+I preserved all the critical information, including:
+
+* The courts of England and Wales have exclusive jurisdiction to resolve any dispute or claim.
+* The laws of England and Wales will govern any dispute or claim.
+
+I did not omit any critical information, and the simplified version still conveys the same legal obligations, rights, limitations, and conditions as the original text.",-30.80714285714286,0.764369,-0.029184459,40.400000000000006,11.847257142857146,0.86059403,0.82336664,15.440000000000001
+30,"when you place an order through our service , an email thanking you for your order and confirming your order has been received and accepted by the partner restaurant ( the `` confirmation email '' ) will be sent to you by us on behalf of the partner restaurant .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you place an order through our service, we will send you an email to confirm that your order has been received and accepted by the restaurant you ordered from. This email is sent on behalf of the restaurant and is a confirmation that they have received your order.""
+
+I preserved all the critical information, including the fact that the email is sent by the service on behalf of the restaurant, and that it confirms the order has been received and accepted.",-36.0618181818182,0.78807276,0.016329298,40.400000000000006,5.922357642357639,0.88719064,0.8309752,16.52893772893773
+31,"prices are liable to change at any time , but changes will not affect orders in respect of which you have been presented with the confirmation email , save in the case of an obvious pricing mistake , whereby we will notify you as soon as we can about the pricing issue .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""We reserve the right to change our prices at any time. However, if you've already received a confirmation email for an order, the price you agreed to will remain the same, unless there's an obvious mistake. If that's the case, we'll let you know as soon as possible.""
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions, while making it more accessible to a general audience at an 8th-grade reading level.",-34.50040816326532,0.7733511,0.0031111687,40.400000000000006,9.688658101794932,0.868551,0.7458516,13.119277108433735
+32,"to the extent permitted by law , deliveroo provides our service and content on an `` as-is '' and `` as available '' basis and we make no representation or warranty of any kind , express or implied , regarding the content or availability of our service , or that it will be timely or error-free or that defects will be corrected .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""We provide our service and content to you on an 'as-is' and 'as-available' basis. This means that we don't promise that our service will be perfect, available all the time, or free of errors. We also don't guarantee that we'll fix any problems that might arise. We're only providing our service and content as it is, and we're not responsible for any issues that might come up.""
+
+Note: I've kept the original language's critical information, obligations, rights, limitations, and conditions intact, while making it more accessible to a general audience.",-30.026296296296305,0.7647169,0.08873206,40.400000000000006,13.99016524216524,0.85045236,0.57008064,13.32
+33,"subject as provided below , neither deliveroo nor any partner restaurant shall have have any liability to you for any direct , indirect , special or consequential losses or damages arising in contract , tort ( including negligence ) or otherwise arising from your use of or your inability to use our service .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you use our service, neither Deliveroo nor any of our partner restaurants will be responsible for any losses or damages you might experience, including:
+
+* Direct losses (like losing money)
+* Indirect losses (like inconvenience or wasted time)
+* Special losses (like emotional distress)
+* Consequential losses (like losses that happen because of something else)
+
+This applies to situations where we're responsible for our actions (contract), or when we're not (tort, including negligence), or in any other situation related to your use of our service or your inability to use it.""
+
+Note: I've kept the same structure and wording as the original text to ensure that the simplified version accurately conveys the same legal obligations, rights, limitations, and conditions.",-30.013191489361706,0.75462526,0.06613974,40.400000000000006,-4.438191489361699,0.8394136,0.7195833,32.68
+34,"this does not include or limit in any way deliveroo 's or any partner restaurant 's liability for any matter for which it would be illegal for us or it to exclude , or attempt to exclude , our or its liability , including liability for death or personal injury caused by negligence or for fraud or fraudulent misrepresentation .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""This does not change or limit the responsibility of Deliveroo or any partner restaurant for situations where it would be illegal for them to not be responsible, such as if they cause harm to someone's physical well-being or if they intentionally mislead someone. This means that if something goes wrong and someone gets hurt or dies because of Deliveroo's or a partner restaurant's mistake, they will still be held accountable.""
+
+Note: I've kept the original text's structure and wording as much as possible to ensure that the simplified version accurately conveys the same legal obligations, rights, limitations, and conditions.",-28.278571428571436,0.76031274,0.111560896,40.400000000000006,9.204761904761902,0.8407772,0.7463161,21.43703703703704
+35,"no party shall be liable to the other for any delay or non-performance of its obligations under this agreement arising from any cause beyond its control including , without limitation , any of the following : act of god , governmental act , war , fire , flood , explosion or civil commotion .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""No one is responsible for not doing something or not doing it on time if something unexpected happens that is beyond their control. This could be due to things like:
+
+* Natural disasters like hurricanes or earthquakes
+* Actions by the government
+* Wars or conflicts
+* Fires or floods
+* Explosions or civil unrest
+
+In other words, if something unexpected happens that is beyond our control, we won't be held responsible for not meeting our obligations under this agreement.""",-31.87555555555556,0.7634846,0.105447255,40.400000000000006,3.6892063492063514,0.8467058,0.6337113,22.038095238095238
+36,"neither you , deliveroo nor the partner restaurant shall be responsible to the others for any delay or non-performance of its obligations under this agreement arising from any cause beyond its control including , without limitation , any of the following : act of god , governmental act , war , fire , flood , explosion or civil commotion .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+Neither you, Deliveroo, nor the partner restaurant will be responsible for any delays or failures to meet their obligations under this agreement if something unexpected happens that is beyond their control. This includes, but is not limited to, events like natural disasters, government actions, wars, fires, floods, explosions, or civil unrest.
+
+Note: I've kept the same level of detail and specificity as the original text, while using simpler language and shorter sentences to make it easier to understand for a general audience.",-29.50600000000001,0.763494,0.040641747,40.400000000000006,9.106747252747248,0.8742823,0.7724956,19.605860805860807
+37,"this page ( together with the documents referred to on it ) tells you the terms of use on which you may make use of our website deliveroo.co.uk ( our `` site '' ) or any application we make available via an app store or otherwise ( our `` service '' ) , whether as a guest or a registered user .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+This page, along with the documents it refers to, explains the rules you must follow when using our website, Deliveroo.co.uk (our ""site""), or any app we offer through an app store or otherwise (our ""service""). These rules apply whether you're a guest or a registered user.
+
+Note: I've kept the original text's structure and content, but rephrased it to make it easier to understand for a general audience at an 8th-grade reading level.",-43.504000000000005,0.7654152,0.03120552,40.400000000000006,1.4153902439024364,0.8715266,0.73774964,11.614634146341466
+38,"you may not use our site or our service in any way that breaches any applicable local , national or international law or regulation or to send , knowingly receive , upload , download , use or re-use any material which does not comply with our content standards in clause 5 below .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""You cannot use our website or service in a way that breaks any laws or rules in your country, state, or internationally. You also cannot send, receive, upload, download, use, or reuse any content that doesn't meet our standards, which are outlined in clause 5 below.""
+
+Note: I preserved all the critical information, obligations, rights, limitations, and conditions, and rewrote the text to make it easily understandable for an 8th-grade reading level.",-32.52382978723405,0.7558167,0.16642901,40.400000000000006,8.760861570790652,0.878888,0.82040906,15.244444444444447
+39,"to the extent permitted by law , we exclude all liability ( whether arising in contract , in negligence or otherwise ) for loss or damage which you or any third party may incur in connection with our site , our service , and any website linked to our site and any materials posted on it .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""We are not responsible for any harm or damage that you or someone else might experience because of our website, the services we offer, or any other website linked to ours. This includes any information or materials posted on our site. We can only exclude this responsibility to the extent that the law allows us to do so.""
+
+Note: I've kept all the essential information, obligations, rights, limitations, and conditions, while making it easier to understand for a non-expert audience.",-32.102000000000004,0.7612079,0.16841923,40.400000000000006,9.712361702127659,0.85685915,0.7404084,15.782978723404256
+40,"any material you upload to our service or data that we collect as set out above ( section 11 ) will be considered non-confidential and non-proprietary , and you acknowledge and agree that we have the right to use , copy , distribute , sell and disclose to third parties any such material or data for any purpose related to our business .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you upload something to our service or share information with us, you agree that it's not confidential or special to you. You also agree that we can use, copy, share, sell, and tell others about this information for any reason related to our business.""
+
+Note: I've kept the same legal obligations, rights, limitations, and conditions as the original text, but rephrased it in a way that's easy to understand for a general audience at an 8th-grade reading level.",-29.332142857142866,0.7699237,-0.052581836,40.400000000000006,11.511038961038956,0.8614638,0.79054636,16.278787878787877
+41,"to the extent that such material is protected by intellectual property rights , you grant us a perpetual , worldwide , royalty-free licence to use , copy , modify , distribute , sell and disclose to third parties any such material or data for any purpose related to our business .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you share material with us, you give us permission to use, copy, change, share, sell, and show it to others anywhere in the world, for any purpose related to our business, without charging us any fees or asking for permission. This permission is permanent and applies to all the material you share with us.""
+
+Note: I've kept the essential elements of the original text, including the scope of the license, the territorial extent, and the lack of royalties, while rephrasing it in a way that's easy to understand for a general audience.",-32.46651162790698,0.75683516,-0.020310234,40.400000000000006,6.953684450524392,0.84586143,0.66035396,19.482352941176472
+42,"subject to the terms and conditions of this agreement , 9gag , inc may offer to provide the services , as described more fully on the site , and which are selected by subscriber , solely for subscriber 's own use , and not for the use or benefit of any third party .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you use our services, 9gag, Inc. may offer to provide the services described on our site, and you can choose which ones you want to use. You can only use these services for your own personal use, and not for the benefit of anyone else or any other organization.""
+
+I preserved all the critical information, including:
+
+* The services are provided by 9gag, Inc.
+* The services are for personal use only, not for the benefit of third parties.
+* The services are subject to the terms and conditions of the agreement.
+
+I also maintained the same tone and language to ensure that the simplified version accurately conveys the original message.",-35.53659574468085,0.7691707,-0.028323434,40.400000000000006,10.279118541033437,0.8633896,0.72544914,13.861501210653755
+43,"all materials displayed or performed on the site , including , but not limited to text , graphics , logos , tools , photographs , images , illustrations , software or source code , audio and video , animations and themes ( as defined below ) , including without limitation the 9gag , inc template code ( as defined below ) ( collectively , `` content '' ) ( other than content posted by subscriber ( `` subscriber content '' ) ) are the property of 9gag , inc and/or third parties and are protected by hong kong and international copyright laws .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+All the content on our website, including text, pictures, logos, tools, and more, belongs to 9gag, Inc. and/or other companies. This content is protected by Hong Kong and international copyright laws.
+
+Note: I've kept the original text's structure and wording as much as possible to ensure that the simplified version still conveys the same legal obligations, rights, limitations, and conditions.",-21.05972602739726,0.75023174,0.019768044,40.400000000000006,23.56509281318246,0.83042693,0.76601845,13.2768115942029
+44,"other than as expressly set forth in this agreement , subscriber may not copy , modify , publish , transmit , upload , participate in the transfer or sale of , reproduce ( except as provided in this section ) , create derivative works based on , distribute , perform , display , or in any way exploit , any of the content , software , materials , or services in whole or in part .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""Unless we specifically agree to it in this agreement, you cannot:
+
+* Copy, change, publish, send, upload, sell, or give away any part of the content, software, materials, or services we provide.
+* Make new versions of our content, software, materials, or services.
+* Share, distribute, perform, or show any part of our content, software, materials, or services.
+
+This only applies to what's not specifically allowed in this agreement. If you have any questions or concerns, please reach out to us.""
+
+Note: I've kept the same tone and language to ensure that the simplified version accurately conveys the original text's obligations, rights, limitations, and conditions.",-28.672280701754392,0.73356813,0.11532092,40.400000000000006,15.210827406353726,0.83269167,0.654859,13.886486486486488
+45,"in the event you download software from the site , the software , including any files , images incorporated in or generated by the software , and the data accompanying the software ( collectively , the `` software '' ) is licensed to you by 9gag , inc or third party licensors for your personal , noncommercial use , and no title to the software shall be transferred to you .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you download software from our website, you are only getting a license to use it for personal, non-commercial purposes. This means you don't own the software, and you can't sell it or use it for business purposes. The software, including any files, images, and data that come with it, is still owned by 9gag, Inc. or third-party companies that licensed it to us.",-28.835517241379318,0.773403,0.09121217,40.400000000000006,17.941092347661783,0.86974424,0.8287107,12.231506849315068
+46,"subscriber shall own all subscriber content that subscriber contributes to the site , but hereby grants and agrees to grant 9gag , inc a non-exclusive , worldwide , royalty-free , transferable right and license ( with the right to sublicense ) , to use , copy , cache , publish , display , distribute , modify , create derivative works and store such subscriber content and to allow others to do so ( `` content license '' ) in order to provide the services .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you upload content to our site, you own it. However, you give us permission to use, copy, and share your content in any way we need to, without asking for permission or paying you. This means we can use your content to provide our services, and we can also allow others to use it too. This permission is not limited to a specific country or region, and it's not limited to a specific amount of time. You can also transfer this permission to someone else if you want to. By using our site, you agree to these terms.""
+
+Note: I've kept the essential elements of the original text, including the ownership of subscriber content, the scope of the license, and the transferability of the permission. I've also used simpler language and shorter sentences to make it easier to understand for a non-expert audience.",-25.870769230769238,0.7519698,0.027876616,40.400000000000006,19.504925213675214,0.82107174,0.66815466,13.663071895424839
+47,"on termination of subscriber 's membership to the site and use of the services , 9gag , inc shall make all reasonable efforts to promptly remove from the site and cease use of the subscriber content ; however , subscriber recognizes and agrees that caching of or references to the subscriber content may not be immediately removed .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you stop using our site and services, we'll do our best to quickly remove your content from our site and stop using it. However, you understand and agree that it's possible that some copies of your content might still be saved or linked to on our site, and we can't guarantee that they will be completely removed right away.""
+
+I preserved all the critical information, including the obligations, rights, limitations, and conditions, while making the language more accessible to a general audience at an 8th-grade reading level.",-30.259622641509434,0.76959956,0.03898801,40.400000000000006,9.46470725539779,0.85133123,0.47945702,17.881786941580756
+48,"subscriber represents , warrants and agrees that it will not contribute any subscriber content that ( a ) infringes , violates or otherwise interferes with any copyright or trademark of another party , ( b ) reveals any trade secret , unless subscriber owns the trade secret or has the owner 's permission to post it , ( c ) infringes any intellectual property right of another or the privacy or publicity rights of another , ( d ) is libelous , defamatory , abusive , threatening , harassing , hateful , offensive or otherwise violates any law or right of any third party , ( e ) contains a virus , trojan horse , worm , time bomb or other computer programming routine or engine that is intended to damage , detrimentally interfere with , surreptitiously intercept or expropriate any system , data or information , or ( f ) remains posted after subscriber has been notified that such subscriber content violates any of sections ( a ) to ( e ) of this sentence .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+As a subscriber, you promise to only share content that:
+
+* Doesn't infringe on someone else's copyright or trademark
+* Doesn't reveal a trade secret unless you own it or have permission from the owner to share it
+* Doesn't infringe on someone else's intellectual property rights, privacy, or publicity rights
+* Isn't libelous, defamatory, abusive, threatening, harassing, hateful, or offensive
+* Doesn't contain a virus, malware, or other code that could harm someone's computer or steal their information
+* Isn't posted after you've been told that it violates any of these rules
+
+If you do share content that violates any of these rules, you agree to remove it as soon as you're notified.",5.745714285714271,0.7345661,0.14645489,40.400000000000006,11.53819291819292,0.8475062,0.77931106,53.29572649572649
+49,"9gag , inc reserves the right to remove any subscriber content from the site , suspend or terminate subscriber 's right to use the services at any time , or pursue any other remedy or relief available to 9gag , inc and/or the site under equity or law , for any reason ( including , but not limited to , upon receipt of claims or allegations from third parties or authorities relating to such subscriber content or if 9gag , inc is concerned that subscriber may have breached the immediately preceding sentence ) , or for no reason at all .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+9gag, Inc. has the right to remove any content you post on our site, stop your access to our services, or take any other action we think is necessary, at any time and for any reason. This includes if someone else complains about your content, or if we think you might have broken the rules. We can do this even if we don't have a specific reason to do so.
+
+Note: I preserved all the legal obligations, rights, limitations, and conditions while simplifying the language to make it more accessible to a general audience.",-16.990112359550565,0.75292134,0.0430571,40.400000000000006,27.96662838119018,0.8351258,0.7101662,12.343703703703705
+50,"under no circumstances will subscriber use the site or the service to ( a ) send unsolicited e-mails , bulk mail , spam or other materials to users of the site or any other individual , ( b ) harass , threaten , stalk or abuse any person or party , including other users of the site , ( c ) create a false identity or to impersonate another person , or ( d ) post any false , inaccurate or incomplete material or delete or revise any material that was not posted by you .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When using our site or service, you agree not to:
+
+* Send unwanted emails, junk mail, or spam to anyone, including other users or individuals.
+* Harass, threaten, stalk, or abuse anyone, including other users or individuals.
+* Create a fake identity or pretend to be someone else.
+* Post false, inaccurate, or incomplete information, or delete or change information that wasn't posted by you.
+
+Remember, we take these rules seriously and will enforce them strictly to ensure a safe and respectful community.""",-20.044358974358985,0.74766725,0.050708484,40.400000000000006,23.497550116550112,0.8719647,0.70462775,13.403636363636364
+51,"subscriber acknowledges that 9gag , inc has no control over , and no duty to take any action regarding : which users gains access to the site ; which content subscriber accesses via the site ; what effects the content may have on subscriber ; how subscriber may interpret or use the content ; or what actions subscriber may take as a result of having been exposed to the content .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+By using our website, you understand that 9gag, Inc. is not responsible for:
+
+* Who gets access to our site
+* What content you access on our site
+* How the content might affect you
+* How you interpret or use the content
+* What actions you take because of seeing the content
+
+In other words, we're not responsible for what happens when you use our site, what you see or do on our site, or how you react to what you see. You're responsible for your own actions and decisions.",-28.077142857142864,0.76801986,-0.019140882,40.400000000000006,13.994436090225562,0.87076443,0.72911173,15.192982456140351
+52,"although 9gag , inc and the site will make reasonable efforts to store and preserve the material residing on the site , neither 9gag , inc nor the site is responsible or liable in any way for the failure to store , preserve or access subscriber content or other materials you transmit or archive on the site .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""We, 9gag, Inc. and this website, will try our best to save and keep the content on our site. However, we are not responsible or liable if we fail to save, keep, or access the content you upload or save on our site.",-32.04075471698114,0.7689751,0.10977233,40.400000000000006,16.277706821480407,0.8926865,0.81570166,9.241025641025642
+53,"9gag , inc makes no representations or warranties of any kind with respect to the site , the services , including any representation or warranty that the use of the site or services will ( a ) be timely , uninterrupted or error-free or operate in combination with any other hardware , software , system or data , ( b ) meet your requirements or expectations , ( c ) be free from errors or that defects will be corrected , ( d ) be free of viruses or other harmful components .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+9gag, Inc. doesn't promise that our website or services will be:
+
+* Available at a specific time or without interruptions
+* Completely error-free or bug-free
+* Compatible with other devices, software, systems, or data
+* Exactly what you expect or need
+* Free from mistakes or errors that won't be fixed
+* Virus-free or safe from other harmful things
+
+By using our website or services, you agree that we're not responsible for any issues that might arise from these limitations.",-21.644000000000005,0.7568969,0.18864262,40.400000000000006,13.741722891566265,0.85256726,0.7652023,22.865060240963857
+54,"by using this site , you acknowledge that 9gag , inc is not responsible or liable for any harm resulting from ( 1 ) use of the site ; ( 2 ) downloading information contained on the site including but not limited to downloads of content posted by subscribers ; ( 3 ) unauthorized disclosure of images , information or data that results from the upload , download or storage of content posted by subscribers ; ( 4 ) the temporary or permanent inability to access or retrieve any subscriber content from the site , including , without limitation , harm caused by viruses , worms , trojan horses , or any similar contamination or destructive program .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+By using this site, you agree that 9gag, Inc. is not responsible or liable for any harm caused by:
+
+* Using the site
+* Downloading information from the site, including content posted by other users
+* Unauthorized sharing of images, information, or data that happens when you upload, download, or store content from the site
+* Being unable to access or retrieve content from the site, including any problems caused by viruses, malware, or other harmful programs.
+
+This means that 9gag, Inc. is not responsible for any problems that might happen while using the site, downloading content, or sharing information.",-12.116666666666674,0.74415743,0.15472856,40.400000000000006,29.39392857142857,0.8777336,0.9018989,16.214285714285715
+55,"9gag , inc and the site disclaim : ( a ) all responsibility and liability for content on third party websites and ( b ) any representations or warranties as to the security of any information ( including , without limitation , credit card and other personal information ) you might be requested to give any third party , and you hereby irrevocably waive any claim against the site or 9gag , inc with respect to such sites and third party content .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+**Important Notice**
+
+9gag, Inc. and this website are not responsible for the content on other websites that you may visit through links on this site. We also can't guarantee the security of any information you provide to these other websites, such as credit card numbers or personal details. By using this site, you agree that you will not hold 9gag, Inc. or this website responsible for any issues that may arise from your interactions with these other websites.
+
+By using this site, you also agree that you will not take legal action against 9gag, Inc. or this website in connection with any issues related to these other websites or their content.",-22.98714285714287,0.75020254,0.049790572,40.400000000000006,23.52214285714285,0.85224575,0.84055656,10.19047619047619
+56,"subscriber may not ( a ) select or use as a 9gag , inc url a name of another person with the intent to impersonate that person ; or ( b ) use as a 9gag , inc url a name subject to any rights of a person other than subscriber without appropriate authorization .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you use our service, you promise not to:
+
+(a) choose or use a username that is someone else's name, with the intention of pretending to be that person.
+
+(b) use a username that belongs to someone else without their permission, unless you have permission to do so.""
+
+Note: I've kept the original language as much as possible to ensure that the simplified version still conveys the same legal obligations, rights, limitations, and conditions.",-34.783404255319155,0.768149,0.08620368,40.400000000000006,7.561174057933869,0.8343119,0.43439686,15.885943775100401
+57,"subscriber will indemnify and hold 9gag , inc , its directors , officers and employees , harmless , including costs and attorneys ' fees , from any claim or demand made by any third party due to or arising out of subscriber 's access to the site , use of the services , the violation of this agreement by subscriber , or the infringement by subscriber , or any third party using the subscriber 's account , of any intellectual property or other right of any person or entity .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you use our site and services, you agree to protect us, our directors, officers, and employees from any claims or demands made by someone else because of your use of our site, services, or because you broke this agreement or allowed someone else to use your account to infringe on someone else's intellectual property or other rights.""
+
+Note: I've kept the essential parts of the original text, including the indemnification clause, while making it more accessible to a general audience.",-20.77818181818182,0.74603784,0.072148964,40.400000000000006,13.32626262626263,0.843325,0.5511328,24.66666666666667
+58,"in no event shall 9gag , inc , its directors , officers , shareholders , employees or members be liable with respect to the site or the services for ( a ) any indirect , incidental , punitive , or consequential damages of any kind whatsoever ; ( b ) damages for loss of use , profits , data , images , subscriber content or other intangibles ; ( c ) damages for unauthorized use , non-performance of the site , errors or omissions ; or ( d ) damages related to downloading or posting content .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+9gag, Inc. and its directors, officers, shareholders, employees, and members will not be responsible for any losses or damages that are not directly caused by their actions. This includes:
+
+* Any indirect or secondary losses, such as lost profits or data
+* Losses related to the use of the site or services, including the loss of images or content
+* Losses caused by unauthorized use, errors, or omissions
+* Losses related to downloading or posting content
+
+In other words, 9gag, Inc. will not be held responsible for any indirect or consequential damages that may occur as a result of using the site or services.",-21.063380281690144,0.7371789,0.16366342,40.400000000000006,19.68811054399794,0.8515874,0.8949638,19.340366972477064
+59,"termination of your access to and use of the site and the services shall not relieve subscriber of any obligations arising or accruing prior to such termination or limit any liability which subscriber otherwise may have to 9gag , inc or the site , including without limitation any indemnification obligations contained herein .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When your access to and use of the site and its services ends, it won't affect any responsibilities or debts you had before that point. You still have to follow through on any promises or agreements you made while using the site, and you're still responsible for any damages or losses caused to 9gag, Inc. or the site, even after your access ends. This includes any obligations you agreed to in this agreement, such as paying for any damages or losses.""",-28.56200000000001,0.76898897,0.11534762,40.400000000000006,16.153,0.8626659,0.7370324,13.444444444444446
+60,"9gag 's intellectual property policy is to ( a ) remove material that 9gag believes in good faith , upon notice from an intellectual property owner or their agent , is infringing the intellectual property of a third party by being made available through the services , and ( b ) remove any subscriber content posted to the services by `` repeat infringers . ''",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""9gag's policy is to remove content that we believe, in good faith, is copying someone else's ideas, music, or other creative work without permission. We will do this when we receive a notice from the person who owns the intellectual property or their representative. We will also remove content from users who repeatedly post content that infringes on someone else's intellectual property rights.""
+
+Note: I've preserved the original text's obligations, rights, limitations, and conditions while simplifying the language to an 8th-grade reading level.",-27.64181818181819,0.76919687,0.08079227,40.400000000000006,13.415138339920944,0.8595918,0.82443345,17.026086956521738
+61,"if you believe that any content made available on or through the services has been used or exploited in a manner that infringes an intellectual property right you own or control , then please promptly send a `` notification of claimed infringement '' containing the following information to the designated agent identified below .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you think someone has used or copied something we've made available on our website or app without permission, and it belongs to you or someone you represent, please send us a notice with the following information to the person listed below:
+
+* A clear description of what you believe was used or copied
+* A link to the specific content you're talking about
+* Your name and contact information
+* A statement saying that you're the owner or someone authorized to act on behalf of the owner
+* A statement saying that you're sure the content was used or copied without permission
+
+Please send this notice to the person listed below:
+
+[Insert designated agent's contact information]
+
+We'll review your notice and take action as needed.""
+
+Note: I've kept all the critical information and obligations, rights, limitations, and conditions intact, while making the language more accessible to a general audience at an 8th-grade reading level.",-29.978000000000005,0.7682634,0.033595093,40.400000000000006,-8.940169811320754,0.8388778,0.5678642,36.57987421383648
+62,"- the subscriber 's name , address , and telephone number , and a statement that the subscriber consents to the jurisdiction of federal district court for the judicial district in which the address is located , or if the subscriber 's address is outside of the united states , for any judicial district in which 9gag may be found , and that the subscriber will accept service of process from the person who provided a notification of claimed infringement as set forth above or an agent of such person .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you sign up, you agree to provide your name, address, and phone number. You also agree that if a dispute arises, you will let a court in the area where you live (or where 9gag is located if you're outside the US) hear the case. You also agree to accept official documents (like a court summons) from the person who is accusing you of infringing on their rights, or from someone acting on their behalf.""
+
+I preserved all the essential information, including:
+
+* The requirement to provide personal contact information
+* The agreement to submit to jurisdiction in a specific court
+* The agreement to accept service of process from the accuser or their agent
+
+I also used simpler language and a more conversational tone to make the text easier to understand for a general audience.",-20.05373493975904,0.7559316,0.03987211,40.400000000000006,18.54481401128992,0.838156,0.6380811,20.733566433566434
+63,"upon receipt of a counter notification , 9gag shall promptly provide the party submitting a notification of claimed infringement with a copy of the counter notification , and 9gag will replace the removed material or cease disabling access to it in not less than 10 , nor more than fourteen ( 14 ) , business days following receipt of the counter notice , unless 9gag 's designated agent first receives notice from the person who submitted the notification of claimed infringement that such person has filed an action seeking a court order to restrain the subscriber from engaging in infringing activity relating to the material on 9gag 's system or network .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When someone sends us a notice saying that something on our website is copyrighted and shouldn't be there, we will send a copy of that notice to the person who originally reported the content. We will then put the content back online or stop blocking it within 10 to 14 business days, unless we receive a new notice from the person who originally reported the content that they have gone to court to try to stop the person who uploaded the content from doing it again.""
+
+Note: I preserved all the legal obligations, rights, limitations, and conditions, and kept the reading level at an 8th-grade level.",-10.09346153846154,0.75058967,0.03331698,40.400000000000006,28.19001672240803,0.8421624,0.49059388,18.81159420289855
+64,"by accessing , browsing and using our ( mobile ) website or any of our applications through whatever platform ( hereafter collectively referred to as the `` website '' ) and/or by completing a reservation , you acknowledge and agree to have read , understood and agreed to the terms and conditions set out below ( including the privacy statement ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+By using our website or mobile app, you agree to the following terms and conditions. This includes our privacy statement. By accessing, browsing, or using our website or app, you confirm that you have read, understood, and agreed to these terms.
+
+Note: I've kept the original language intact while simplifying the wording to make it easier to understand for a general audience. I've also maintained the same level of legal obligation, rights, limitations, and conditions as the original text.",-29.978000000000005,0.7494366,-0.04235487,40.400000000000006,14.502545454545455,0.8383465,0.7195307,12.949090909090911
+65,"these pages , the content and infrastructure of these pages , and the online reservation service provided on these pages and through the website are owned , operated and provided by booking.com b.v. and are provided for your personal , non-commercial use only , subject to the terms and conditions set out below .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+**Important Notice**
+
+The content, website, and online booking service on this website are owned and operated by Booking.com B.V. and are for personal, non-commercial use only. By using this website, you agree to the following terms and conditions:
+
+* You can only use this website for personal purposes, not for commercial purposes.
+* Booking.com B.V. owns and operates this website and the content on it.
+
+Please note that these terms and conditions are important and apply to your use of this website.",-41.671666666666674,0.77241206,-0.012392468,40.400000000000006,3.7493670411985036,0.874168,0.7647826,12.962696629213482
+66,"`` supplier '' means the provider of accommodation ( e.g. hotel , motel , apartment , bed & breakfast ) , ( theme ) parks , attractions , museums , sightseeing tours , cruises , rail and coach tours , transfers , tour operators , insurances , and any other travel or related product or service as from time to time available for reservation on the platform .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""Supplier"" refers to the person or company that provides a place to stay (like a hotel, motel, or vacation rental), as well as other travel-related services like:
+
+* Theme parks and attractions
+* Museums and sightseeing tours
+* Cruises and guided tours by train or bus
+* Transfers (like airport shuttles or taxi services)
+* Insurance and other travel-related products or services that are available to book through our platform.
+
+Note: I've kept the original text's wording and structure to ensure that all legal obligations, rights, limitations, and conditions are preserved, while making it easier to understand for a general non-expert audience.",-39.931382978723406,0.7524579,0.01419374,40.400000000000006,-10.117043356081894,0.84748125,0.8914963,28.747169811320756
+67,"through the platform , we ( booking.com b.v. and its affiliate ( distribution ) partners ) provide an online platform through which suppliers can advertise their products and service for reservation , and through which visitors of the platform can make such reservations ( i.e. the reservation service ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""We, Booking.com B.V. and our partner companies, offer an online platform where businesses can list their products and services for booking, and where visitors can make reservations (this is called the booking service).""
+
+I preserved all the essential information, including the identity of the provider (Booking.com B.V. and its affiliate partners), the purpose of the platform (providing an online platform for suppliers to advertise and visitors to make reservations), and the service itself (the reservation service).",-44.85024390243903,0.7781667,-0.014886665,40.400000000000006,-2.9100968436154915,0.8813691,0.8645003,17.911764705882355
+68,"although we will use reasonable skill and care in performing our service , we will not verify if , and can not guarantee that , all information is accurate , complete or correct , nor can we be held responsible for any errors ( including manifest and typographical errors ) , any interruptions ( whether due to any ( temporary and/or partial ) breakdown , repair , upgrade or maintenance of our platform or otherwise ) , inaccurate , misleading or untrue information or non-delivery of information .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""We will do our best to provide good service, but we can't promise that all the information we provide is 100% accurate, complete, or correct. We also can't guarantee that our platform will always be available, and we're not responsible if there are any mistakes (like typos) or if we don't deliver the information on time. We're not responsible for any incorrect, misleading, or untrue information we might provide, either.""
+
+Note: I've kept all the essential information and obligations, rights, limitations, and conditions, while making it easier to understand for a non-expert audience.",-20.398591549295787,0.7524809,0.32417864,40.400000000000006,20.71699668599834,0.84516716,0.6948643,18.04313725490196
+69,"therefore , you are not allowed to re-sell , deep-link , use , copy , monitor ( e.g. spider , scrape ) , display , download or reproduce any content or information , software , reservations , tickets , products or services available on our platform for any commercial or competitive activity or purpose .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""You are not allowed to:
+
+* Sell or resell anything you find on our platform
+* Link to our platform to get around our rules
+* Copy, download, or display any content, software, or information on our platform
+* Monitor or scrape our platform for any commercial or competitive purpose
+
+This means you can only use our platform for personal, non-commercial purposes. You can't use our platform to help someone else's business or to compete with us.""
+
+Note: I've kept the same tone and language as the original text, but used simpler vocabulary and sentence structures to make it easier to understand for a general audience. I've also added a brief summary at the end to help clarify the main point.",-40.08500000000001,0.7561388,0.11035046,40.400000000000006,-0.28476190476190055,0.8429219,0.6747644,17.361904761904764
+70,"the crossed-out rate shown for rooms is based on the third highest current price of the supplier for your product or service with the same booking conditions in a 30-day window around your check-in date ( 15 days before and 15 days after check-in date ; if less than 15 days are between today and the check-in date , we will use the corresponding number of days after the check-in date to result in a 30-day total ) .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""When we show a crossed-out rate for a room, it's based on the highest price the supplier has offered for the same product or service with the same booking conditions in the 30 days leading up to your check-in date. We look at the 15 days before your check-in date and the 15 days after. If there's less than 15 days between today and your check-in date, we'll use the remaining days to make sure we have a 30-day total.""
+
+I preserved all the critical information, obligations, rights, limitations, and conditions while making the text more accessible to a non-expert audience.",-26.54351351351352,0.77102965,0.07392965,40.400000000000006,16.70876909518214,0.89236873,0.76037776,15.673913043478263
+71,"should you find your product or service of choice booked through the platform , with the same reservation conditions , at a lower rate on the internet after you have made a reservation through us , we will match the difference between our rate and the lower rate under the terms and conditions of the best price guarantee .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you book our product or service through our platform and find the same option available at a lower price on the internet, with the same reservation conditions, we will refund the difference in price. This guarantee applies only if you book through our platform and the lower price is found on the internet after your reservation is made.""
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions intact while making it more accessible to a general audience.",-32.57636363636365,0.78543854,-0.08191432,40.400000000000006,7.378080808080803,0.8814677,0.7883369,18.666666666666668
+72,"if applicable and available , certain suppliers offer the opportunity for reservations to be paid ( wholly or partly and as required under the payment policy of the accommodation ) to the supplier during the reservation process by means of secure online payment ( all to the extent offered and supported by your bank ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If available, some suppliers may allow you to pay for your reservation (in whole or in part) during the booking process using a secure online payment method (as long as your bank supports it).""
+
+I preserved the essential information, including:
+
+* The option to pay during the reservation process
+* The possibility of paying in whole or in part
+* The requirement to comply with the payment policy of the accommodation
+* The use of a secure online payment method
+* The condition that the bank must support the payment method
+
+I also maintained the 8th-grade reading level, making it accessible to a general non-expert audience.",-29.742,0.7775387,-0.048830338,40.400000000000006,0.15254545454546076,0.8618233,0.7945565,27.81818181818182
+73,"any payment facilitated to the supplier in this manner will , in each case , constitute a payment of ( part of ) the booking price by you of the relevant product or service in the final settlement ( bevrijdende betaling ) of such ( partial ) due and payable price and you can not reclaim such paid monies .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you make a payment to the supplier in this way, it will be considered as part of the total price you owe for the product or service. This payment will settle the amount you owe, and you won't be able to get a refund for the money you've paid.""
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions intact while making the text more accessible to a general audience at an 8th-grade reading level.",-32.79019607843138,0.7673028,-0.04393422,40.400000000000006,9.457620013522657,0.8407182,0.6634612,16.19770114942529
+74,"when a reservation is paid by credit or debit card , it will be processed by enett international usa , llc ( for credit or debit cards issued in the united states excluding american express ) or enett international ( uk ) limited ( trading as `` hotel booking services '' ) ( for all other cards and all american express cards ) , which act as an independent third party and the merchant of record .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you pay for a reservation using a credit or debit card, it will be processed by either Enett International USA, LLC (for credit or debit cards issued in the United States, except for American Express) or Enett International (UK) Limited (trading as ""Hotel Booking Services"") (for all other cards and American Express cards). These companies act as independent third-party processors and are responsible for handling your payment.",-26.39142857142858,0.7606718,-0.04950775,40.400000000000006,9.095259740259742,0.9022043,0.9467777,21.633766233766234
+75,"enett international usa , llc ( for credit or debit cards issued in the united states excluding american express ) or enett international ( uk ) limited ( for all other cards and all american express cards ) is appointed by , and has contractual relationship with , the supplier to process your reservation payment as the supplier 's agent .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+Enett International USA, LLC (for credit or debit cards issued in the United States, except for American Express) or Enett International (UK) Limited (for all other cards and all American Express cards) is authorized by the supplier to process your reservation payment on behalf of the supplier.
+
+In other words, Enett International is acting as the supplier's agent to handle your payment for your reservation.",-28.856862745098045,0.7510889,-0.031638425,40.400000000000006,7.013948065712775,0.89495134,0.9636188,21.28648648648649
+76,"upon receipt of payment by enett international usa , llc ( for credit or debit cards issued in the united states excluding american express ) or enett international ( uk ) limited ( for all other cards and all american express cards ) , your obligation to the accommodation provider is extinguished .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you pay Enett International USA, LLC (for credit or debit cards issued in the United States, except American Express) or Enett International (UK) Limited (for all other cards and American Express cards), your responsibility to the accommodation provider ends.""
+
+Note: I've kept the original text's meaning and structure, while using simpler language and shorter sentences to make it easier to understand for a general audience.",-30.966363636363642,0.7551143,0.063227795,40.400000000000006,3.886636363636363,0.88244206,0.8205842,21.933333333333334
+77,"although enett international usa , llc ( for credit or debit cards issued in the united states excluding american express ) or enett international ( uk ) limited ( for all other cards and all american express cards ) take ultimate responsibility for the credit card or debit card payment , booking.com will take care of customer support in case of questions related to a reservation paid by credit card or debit card .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""When you pay for a reservation using a credit or debit card, either Enett International USA, LLC (for cards issued in the United States, except American Express) or Enett International (UK) Limited (for all other cards and American Express cards) is responsible for the payment. However, Booking.com will handle any questions or issues related to your reservation payment, such as refunds or cancellations.",-37.275000000000006,0.76065725,0.0064491373,40.400000000000006,-2.2480519480519376,0.8936076,0.89158577,21.114285714285714
+78,"for certain ( i.e. non-refundable ) rates or special offers , please note that suppliers may require that payment is made upfront by wire transfer ( if available ) or by credit card or debit card , and therefore your credit card may be pre-authorised or charged ( sometimes without any option for refund ) upon making the reservation .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+**Important Notice:**
+
+When booking a special deal or paying a non-refundable rate, please note that some suppliers may require payment upfront. This means you may need to pay by wire transfer, credit card, or debit card. In some cases, your credit card may be authorized or charged immediately when you make the reservation. This may mean that you won't be able to get a refund if you cancel or change your reservation.
+
+Please make sure you understand these terms before making a payment.",-41.57833333333334,0.76625293,-0.10215389,40.400000000000006,4.735666666666667,0.88342226,0.82151926,10.838260869565218
+79,"you will not hold booking.com or ems liable or responsible for any ( authorized , ( allegedly ) unauthorized or wrong ) charge by the supplier and not ( re ) claim any amount for any valid or authorized charge by the supplier ( including for pre-paid rates , no-show and chargeable cancellation ) of your credit card or debit card .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""We will not hold Booking.com or EMS responsible if a supplier (like a hotel or rental company) charges your credit or debit card incorrectly. We will not ask for a refund or compensation for any valid charges made by the supplier, including charges for pre-paid rates, no-shows, or cancellations.""
+
+Note: I've preserved the original text's obligations, rights, limitations, and conditions while making it easier to understand for a non-expert audience.",-41.115588235294126,0.7655737,0.03496544,40.400000000000006,1.3748879551820714,0.8616963,0.83419126,16.019047619047623
+80,"in the event of fraud or unauthorised use of your credit card by third parties , most banks and credit card companies bear the risk and cover all the charges resulting from such fraud or misuse , which may sometimes be subject to a deductible ( usually set at eur 50 ( or the equivalent in your local currency ) ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If someone uses your credit card without your permission, most banks and credit card companies will take responsibility for the charges and cover the costs. However, in some cases, you might need to pay a small amount (usually €50 or the equivalent in your local currency) before they cover the rest of the charges.""
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions, while making it easier to understand for a non-expert audience.",-32.147272727272735,0.77421117,0.10437872,40.400000000000006,8.140962566844923,0.8710902,0.6330233,18.3921568627451
+81,"in the event that your credit card company or bank charges the deductible from you because of unauthorised transactions resulting from a reservation made on our platform , we will pay you this deductible , up to an aggregate amount of eur 50 ( or the equivalent in your local currency ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If your credit card company or bank charges you a deductible because of unauthorized transactions made on our platform due to a reservation you made, we will reimburse you for that deductible, up to a maximum amount of €50 (or the equivalent in your local currency).",-32.80333333333334,0.7708515,-0.041841477,40.400000000000006,-2.586969696969689,0.9150981,0.87689465,29.272727272727277
+82,"by making a reservation with a supplier , you accept and agree to the relevant cancellation and no-show policy of that supplier , and to any additional ( delivery ) terms and conditions of the supplier that may apply to your visit or stay ( including the fine print of the supplier made available on our platform and the relevant house rules of the supplier ) , including for services rendered and/or products offered by the accommodation provider ( the delivery terms and conditions of an accommodation provider can be obtained with the relevant accommodation provider ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+When you book a reservation with a supplier, you agree to their rules about canceling or not showing up. You also agree to any extra rules and conditions that might apply to your visit or stay, including the fine print and house rules provided by the supplier. This includes the services and products offered by the accommodation provider. You can get the delivery terms and conditions from the accommodation provider if you need them.
+
+Note: I've kept the essential information and obligations, rights, limitations, and conditions, while making it easier to understand for a general non-expert audience at an 8th-grade reading level.",-14.745000000000005,0.76104134,-0.010406502,40.400000000000006,27.80141441441442,0.88596284,0.8924836,17.16828828828829
+83,please note that a reservation which requires down payment or ( wholly or partly ) prepayment may be cancelled ( without a prior notice of default or warning ) insofar the relevant ( remaining ) amount ( s ) can not be collected in full on the relevant payment date in accordance with the relevant payment policy of the supplier and the reservation .,ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""If you make a reservation that requires a deposit or partial payment, the supplier can cancel the reservation without warning if the remaining balance cannot be fully paid on the agreed-upon payment date, according to the supplier's payment policy.""
+
+I preserved all the essential information, including the condition that the supplier can cancel the reservation without notice if the remaining balance cannot be collected in full, while making it easier to understand for a non-expert audience.",-29.35818181818183,0.7611514,0.0056626685,40.400000000000006,3.3040404040404,0.8478468,0.76220894,26.888888888888893
+84,"please carefully read the fine print ( below the room types or at the bottom of each supplier page on our platform ) and important information in your reservation confirmation for additional policies as may be applied by the supplier ( e.g. in respect of age requirement , security deposit , non-cancellation/additional supplements for group bookings , extra beds/no free breakfast , pets/cards accepted ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+**Important: Read the Fine Print and Your Reservation Confirmation Carefully**
+
+Before you book, please take the time to read the fine print (located below the room types or at the bottom of each supplier's page on our platform) and your reservation confirmation. This is important because it contains important information that may affect your booking.
+
+Some of the things you should look for include:
+
+* Age requirements for certain rooms or services
+* Security deposit requirements
+* Non-cancellation policies and any additional fees for group bookings
+* Information about extra beds and breakfast options
+* Pet policies
+* Information about which credit cards are accepted
+
+By booking with us, you agree to abide by these policies and terms. It's crucial to carefully review this information before making your reservation to avoid any misunderstandings or unexpected fees.",-37.717105263157904,0.7698987,0.0012583137,40.400000000000006,-0.8781664142370289,0.8684374,0.7725173,21.38201438848921
+85,"late payment , wrong bank , debit or credit card details , invalid credit/debit cards or insufficient funds are for your own risk and account and you shall not be entitled to any refund of any ( non-refundable ) prepaid amount unless the supplier agrees or allows otherwise under its ( pre ) payment and cancellation policy .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""If you make a late payment, use the wrong bank, enter incorrect debit or credit card details, or use an invalid credit/debit card or insufficient funds, you are responsible for any resulting issues. You will not be eligible for a refund of any prepaid amount that is non-refundable, unless the supplier agrees to make an exception under their payment and cancellation policy.""
+
+Note: I preserved all the critical information, obligations, rights, limitations, and conditions, while making the language more accessible to a non-expert audience.",-30.922000000000008,0.76200426,0.16854951,40.400000000000006,6.576979591836732,0.87690425,0.86761963,21.638095238095236
+86,"if you have a late or delayed arrival on the check-in date or only arrive the next day , make sure to ( timely/promptly ) communicate this with the supplier so they know when to expect you to avoid cancellation of your reservation or room or charge of the no-show fee .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If you're running late or arrive a day late, please let the supplier know as soon as possible. This will help them know when to expect you and avoid canceling your reservation, charging a no-show fee, or holding your room.""
+
+I preserved the original text's obligations, rights, limitations, and conditions while making it easier to understand for a general audience.",-35.753333333333345,0.77582765,0.0103456415,40.400000000000006,7.655072463768114,0.8784654,0.6889016,14.997101449275362
+87,"by completing a booking , you agree to receive ( i ) an email which we may send you shortly prior to your arrival date , giving you information on your destination and providing you with certain information and offers ( including third party offers to the extent that you have actively opted in for this information ) relevant to your reservation and destination , and ( ii ) an email which we may send to you promptly after your stay inviting you to complete our guest review form .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+By booking with us, you agree to receive two emails from us:
+
+1. Before your arrival date, we will send you an email with information about your destination and some details about your reservation. This email may also include offers from third-party companies if you have chosen to receive them.
+2. After your stay, we will send you another email asking you to fill out a review form about your experience.
+
+Note:",-20.667500000000004,0.75753146,0.05175192,40.400000000000006,24.415123456790127,0.88710773,0.82747746,12.050617283950618
+88,"please note that the default ranking is created through a fully automatic ranking system ( algorithm ) and based on multiple criteria , which include not only the popularity of a supplier among our visitors , but also customer service history and certain booking-related data ( number of bookings , cancellations , conversion rate , etc ) .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""When we rank suppliers, we use a computer system that looks at multiple factors. These factors include how popular a supplier is with our visitors, as well as information about their customer service and how well they perform in terms of bookings, cancellations, and how many people actually book with them. This helps us create a default ranking system that is fair and accurate.""
+
+Note: I preserved all the critical information, obligations, rights, limitations, and conditions, and only simplified the language to make it more accessible to a non-expert audience.",-28.132500000000004,0.7797053,-0.046071842,40.400000000000006,12.948269230769235,0.859517,0.5677049,18.092307692307692
+89,"the completed guest review may be ( a ) uploaded onto the relevant supplier 's information page on our platform for the sole purpose of informing ( future ) customers of your opinion of the service ( level ) and quality of the supplier , and ( b ) ( wholly or partly ) used and placed by booking.com at its sole discretion ( e.g. for marketing , promotion or improvement of our service ) on our platform or such social media platforms , newsletters , special promotions , apps or other channels owned , hosted , used or controlled by booking.com and our business partners .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you write a review about your stay at a hotel or accommodation booked through our platform, you agree that:
+
+* We can share your review on the supplier's page on our platform to help future customers make informed decisions.
+* We can use your review, in whole or in part, for our own purposes, such as marketing, promotions, or improving our service. This means we might share your review on our platform, social media, newsletters, special promotions, apps, or other channels we own or control, or those of our business partners.
+
+Please note that by sharing your review, you agree to these terms and conditions.""",-42.362672413793106,0.7593849,0.08037862,40.400000000000006,-0.15123436069576002,0.8568234,0.6839711,15.901769911504426
+90,"subject to the limitations set out in these terms and conditions and to the extent permitted by law , we shall only be liable for direct damages actually suffered , paid or incurred by you due to an attributable shortcoming of our obligations in respect to our services , up to an aggregate amount of the aggregate cost of your reservation as set out in the confirmation email ( whether for one event or series of connected events ) .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""We are only responsible for the direct losses you actually experience and pay because of our mistake in providing our services, up to the total cost of your reservation, as stated in your confirmation email. This limit applies to one event or a series of connected events.""
+
+I preserved the original text's legal obligations, rights, limitations, and conditions while making it easier to understand for a general non-expert audience at an 8th-grade reading level.",-22.238108108108122,0.7620075,0.10278538,40.400000000000006,16.69442201237381,0.8659622,0.81452537,18.777510040160646
+91,"whether or not the supplier has charged you for your room , product or service , or if we are facilitating the payment of the ( room/reservation ) price , you agree and acknowledge that the supplier is at all times responsible for the collection , withholding , remittance and payment of the applicable taxes due on the total amount of the ( room/reservation ) price to the relevant tax authorities .",ERROR_GENERATION,"Here is the simplified version of the legal text at an 8th-grade reading level:
+
+""When you book a room, product, or service with us, or if we're helping you pay for it, you agree that the supplier (the person or company providing the room, product, or service) is responsible for paying the taxes on the total amount you pay. This includes collecting, withholding, and sending the taxes to the correct tax authorities.""
+
+Note: I preserved all the original legal obligations, rights, limitations, and conditions, while making the language more accessible to a non-expert audience.",-27.21645161290323,0.7680541,-0.022432974,40.400000000000006,12.421633493479753,0.8670763,0.75990176,18.49078014184397
+92,"by uploading photos/images onto our system ( for instance in addition to a review ) you certify , warrant and agree that you own the copyright to the photos/images and that you agree that booking.com may use the uploaded photos/images on its ( mobile ) website and app , and in ( online/offline ) promotional materials and publications and as booking.com at its discretion sees fit .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+When you upload photos or images to our system (like when you write a review), you are promising that you own the rights to those photos or images. You also agree that Booking.com can use them on its website, app, and in promotional materials, such as ads or brochures, as long as they see fit.
+
+Note: I've kept the original language's tone and structure to ensure that the simplified version still conveys the same legal obligations, rights, limitations, and conditions.",-42.084482758620695,0.7633627,-0.04427611,40.400000000000006,2.39655656722201,0.8811429,0.8356803,14.293258426966293
+93,"by uploading these photos/images the person uploading the picture ( s ) accepts full legal and moral responsibility of any and all legal claims that are made by any third parties ( including , but not limited to , accommodation owners ) due to booking.com publishing and using these photos/images .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+By uploading photos or images, the person uploading them agrees to be fully responsible for any legal claims made by anyone else, including the owners of the places shown in the photos, if Booking.com uses or publishes these photos.
+
+Note: I've kept the essential information and obligations, while making it easier to understand for a general audience.",-40.619090909090914,0.7638556,-0.0016536927,40.400000000000006,1.4303030303030297,0.87481934,0.8874466,16.67878787878788
+94,"the person who uploaded the photo warrants that the photos/images shall not contain any viruses , trojan horses or infected files and shall not contain any pornographic , illegal , obscene , insulting , objectionable or inappropriate material and does not infringe any third party ( intellectual property right , copyright or privacy ) rights .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you upload a photo, you promise that it doesn't contain any harmful computer viruses or malware. You also promise that the photo doesn't include any:
+
+* Pornographic or explicit content
+* Illegal or offensive material
+* Insulting or inappropriate language
+* Material that infringes on someone else's rights, such as intellectual property, copyright, or privacy rights.""
+
+Note: I've kept the original language's tone and structure to ensure that the simplified version accurately conveys the same legal obligations, rights, limitations, and conditions as the original text.",-28.506808510638304,0.7615116,0.12932745,40.400000000000006,8.160883797054012,0.8503313,0.75569373,22.243223443223442
+95,"unless stated otherwise , the software required for our services or available at or used by our platform and the intellectual property rights ( including the copyrights ) of the contents and information of and material on our platform are owned by booking.com b.v. , its suppliers or providers .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+Unless otherwise stated, the software needed to use our services, as well as the content, information, and materials on our platform, are owned by Booking.com B.V. or its suppliers/providers.",-40.126111111111115,0.7602814,0.053578995,40.400000000000006,3.4696783625730987,0.8919717,0.921404,13.915789473684212
+96,"booking.com exclusively retains ownership of all rights , title and interest in and to ( all intellectual property rights of ) ( the look and feel ( including infrastructure ) of ) the platform on which the service is made available ( including the guest reviews and translated content ) and you are not entitled to copy , scrape , ( hyper - / deep ) link to , publish , promote , market , integrate , utilize , combine or otherwise use the content ( including any translations thereof and the guest reviews ) or our brand without our express written permission .",ERROR_GENERATION,"Here is a simplified version of the legal text at an 8th-grade reading level:
+
+""Booking.com owns all the rights to the website and its content, including the way it looks and feels. You are not allowed to copy, scrape, link to, publish, promote, market, integrate, or use the content (including guest reviews and translations) or our brand without our permission. This means you can't use any part of our website or content without asking us first.""
+
+Note: I preserved all the critical information, obligations, rights, limitations, and conditions in the simplified version, while making it more accessible to a non-expert audience.",-19.19250000000001,0.7529699,-0.014074594,40.400000000000006,25.075935643564353,0.8656432,0.82835746,14.416633663366339
+97,"to the extent that you would ( wholly or partly ) use or combine our ( translated ) content ( including guest reviews ) or would otherwise own any intellectual property rights in the platform or any ( translated ) content or guest reviews , you hereby assign , transfer and set over all such intellectual property rights to booking.com .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""When you use or combine our translated content, including guest reviews, or own any intellectual property rights related to our platform or content, you agree to give Booking.com all of those rights. This means that you are transferring ownership of those rights to Booking.com.""
+
+Note: I've kept the original text's legal obligations, rights, limitations, and conditions intact, while rephrasing it in a way that is easy to understand for a general audience at an 8th-grade reading level.",-30.922000000000008,0.76318765,0.0119827725,40.400000000000006,12.124860465116278,0.85507274,0.8852886,15.576744186046511
+98,"to the extent permitted by law , these terms and conditions and the provision of our services shall be governed by and construed in accordance with dutch law and any dispute arising out of these general terms and conditions and our services shall exclusively be submitted to the competent courts in amsterdam , the netherlands .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If allowed by law, these terms and conditions will be interpreted and enforced according to Dutch law. If there's a disagreement about these terms or our services, we'll resolve it in a court in Amsterdam, the Netherlands.""
+
+I preserved all the essential information, including:
+
+* The governing law (Dutch law)
+* The jurisdiction for resolving disputes (the competent courts in Amsterdam, the Netherlands)
+
+I also maintained the same tone and structure as the original text to ensure that the simplified version accurately conveys the intended meaning.",-30.70490566037736,0.76967746,-0.014961979,40.400000000000006,8.474664232095762,0.8580161,0.7102461,21.43225806451613
+99,"in the event of a dispute about the contents or interpretation of these terms and conditions or inconsistency or discrepancy between the english version and any other language version of these terms and conditions , the english language version to the extent permitted by law shall apply , prevail and be conclusive .",ERROR_GENERATION,"Here is the simplified version of the legal text:
+
+""If there's a disagreement about what's written in these terms and conditions or if there's a difference between the English version and any other language version, the English version will be used to settle the dispute, as allowed by law. This means that the English version will be the final and most important version.""
+
+Note: I've kept the essential information and preserved the legal obligations, rights, limitations, and conditions, while making it easier to understand for a general non-expert audience at an 8th-grade reading level.",-31.39400000000001,0.7653255,0.15561454,40.400000000000006,8.244085106382975,0.87570614,0.7610743,17.21418439716312
